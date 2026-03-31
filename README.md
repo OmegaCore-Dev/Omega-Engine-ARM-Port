@@ -33,7 +33,7 @@ Traditional emulators translate instructions on the fly. OmegaCore's state-machi
 The provided C++ files demonstrate the output quality of the OmegaCore engine. 
 
 *   `RELEASE_Part*.cpp` - Example of autonomous struct encapsulation, pointer nullification patterns, and lambda-based memory cleanup sequences.
-​"Status: Syntactic & Structural PoC"
+*   ​"Status: Syntactic & Structural PoC"
 The provided source code is intended for Static Analysis to verify the engine's ability to reconstruct logic, memory alignment, and class hierarchies. It is not intended for standalone compilation as it depends on the proprietary OmegaCore Runtime headers and symbol resolution layers.
 **Engineers and technical recruiters are welcome to review the output to verify the memory alignment accuracy and strict C++ standards enforcement achieved by the engine.**
 
